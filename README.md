@@ -11,4 +11,4 @@
 > Atualmente focado em dominar a administração de sistemas e entender a fundo a integração de semicondutores.
 
 ---
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU-USER&theme=terminal&hide_border=true)
+
